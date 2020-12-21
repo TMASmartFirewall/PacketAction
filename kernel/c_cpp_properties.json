@@ -1,0 +1,16 @@
+{
+    "defines": [
+        "__GNUC__",
+        "__KERNEL__"
+    ],
+
+    "includePath": [
+        "${workspaceFolder}/**",
+        "/usr/include",
+        "/usr/local/include",
+        "/usr/src/linux-headers-4.15.0-88/include",
+        "/usr/src/linux-headers-4.15.0-88-generic/include",
+        "/usr/src/linux-headers-4.15.0-88/arch/x86/include",
+        "/usr/lib/gcc/x86_64-linux-gnu/7.4.0/include"
+    ],
+}
