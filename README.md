@@ -48,6 +48,4 @@ npm run build // Build ONLY the frontend, so you can later deploy it in APACHE o
 
 ## Contributors
 @[Marti Miquel](https://github.com/MartiMiquel) \
-@[Èric Monné](https://github.com/orgs/TMASmartFirewall/people/xemyst) \
-@[Waleed](https://github.com/ias20) \
-@Marc Muro Barbe
+@[Èric Monné](https://github.com/orgs/TMASmartFirewall/people/xemyst)
